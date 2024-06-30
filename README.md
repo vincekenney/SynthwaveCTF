@@ -31,4 +31,4 @@ Yarn is use to run locally (`yarn dev`), build (`yarn build`), and deploy (`yarn
 # Notes
 The scoreboard uses a third-party font called [VP Pixel Simplified](https://www.fonts.com/font/vp-type/vp-pixel/simplified), you can use instead [Free Pixel](https://www.dafont.com/free-pixel.font). This might require some changes to the CSS.
 
-If you want to build upon this theme, feel free to, if you want to make changes to the graphics, the PSD files are available in the `psd` directory. Props to the original author of the design [Nicolas de Sola](https://www.behance.net/NicodeSola).
+If you want to build upon this theme, feel free to, if you want to make changes to the graphics, the PSD files are available in the `psd` directory. Props to the original author of the design [Nicolas de Sola](https://www.behance.net/NicodeSola). 
